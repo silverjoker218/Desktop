@@ -1,0 +1,11 @@
+首先，请确保您位于要创建项目的父目录中。然后打开终端或命令提示符并键入 npm create vue@latest
+项目创建完成后，导航到项目目录并安装依赖项cd <your-project-name> // npm install
+让我们通过键入 npm run dev 快速运行我们的 Vue 应用程序 npm run dev
+
+要在 VS Code 中打开您的 Vue 应用程序，请从终端（或命令提示符）导航到 vue-project 文件夹，然后键入 code .
+cd vue-project
+code .
+
+
+
+
